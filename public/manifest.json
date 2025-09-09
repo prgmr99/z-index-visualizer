@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Z-Index Visualizer",
+  "version": "0.1.0",
+  "description": "Visualize z-index and stacking contexts in 3D.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
